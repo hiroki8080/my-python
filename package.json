@@ -1,0 +1,15 @@
+{
+  "name": "my-python",
+  "main": "./lib/my-python",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "repository": "https://github.com/atom/my-python",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "ansi-html-stream": "0.0.3",
+    "atom-space-pen-views": ">5.1.1"
+  }
+}
